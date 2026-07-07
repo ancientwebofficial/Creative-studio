@@ -29,30 +29,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center>
- img src="screenshots\hero_section.png" width="48%">
- </p>
-
-
-<p align="center>
- img src="screenshots\featuredwork.png" width="48%">
- </p>
-
- <p align="center>
-  <img src="screenshots\ownersection.png" width="48%">
- </p>
-
-
-<p align="center">
-   <img src="screenshots\portfolio.png" width="48%">
-  <img src="screenshots\contact.png" width="48%">
-  <img src="screenshots\admin_pannel.png" width="48%">
-</p>
-
----
-
 # ✨ What is Creative portfolio?
 
 **Creative portfolio** is an open-source portfolio platform built for designers, thumbnail artists, creative studios, freelancers, and digital creators.
