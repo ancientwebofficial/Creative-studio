@@ -335,8 +335,7 @@ src/
 ├── app/
 ├── components/
 ├── lib/
-├── hooks/
-├── types/
+├── data/
 
 supabase/
 └── migrations/
