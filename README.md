@@ -19,7 +19,6 @@ A premium, modern, fully CMS-driven portfolio template for showcasing image-base
 
 - Live Demo: Not published yet
 - Repository: https://github.com/ancientwebofficial/Creative-studio
-- Documentation: This README and the screenshot placeholders in [docs/screenshots](docs/screenshots)
 
 ## Quick Start
 
